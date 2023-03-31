@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>google vpn</title>
+    <link href="/2023/03/31/google-vpn/"/>
+    <url>/2023/03/31/google-vpn/</url>
+    
+    <content type="html"><![CDATA[<p>tcp 443     *.cloud.cupronickel.goog  需要代理。用于ip检测。</p><p>udp 2153（安卓手机2153，其他443端口）   *.cloud.cupronickel.goog  不需要代理。可以直连。 用于接入点。</p><p>tcp 443   subscriptionsmanagement-pa.googleapis.com 、subscriptionsmobile-pa.googleapis.com    需要代理。用于 打开“Google One软件”。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>wireguard</title>
     <link href="/2023/03/31/wireguard/"/>
     <url>/2023/03/31/wireguard/</url>
