@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>wireguard</title>
+    <link href="/2023/03/31/wireguard/"/>
+    <url>/2023/03/31/wireguard/</url>
+    
+    <content type="html"><![CDATA[<p>1、warp</p><p>Cloudflare WARP 是Cloudflare 提供的一项基于WireGuard 的网络流量安全及加速服务。</p><p>1）<br>国外vps安装”Cloudflare Warp 网络接口客户端方式”， 服务端是cloudflare提供的warp服务器。     —》正在用的</p><p>国外vps安装  “Cloudflare Warp 官方客户端方式 ”， 服务端是cloudflare提供的warp服务器。  —》 不好用，废弃</p><p>2）在在自己国内终端安装图形化客户端，名为“1.1.1.1” ，   服务端是cloudflare提供的warp服务。    — 可以用。但所有国内国外流量走了vpn。</p><p>2、wireguard</p><p>现在在自己国内终端安装wireguard客户端 ，  服务端是自己国外vps安装的wireguard服务器。      — 可以用。但所有国内国外流量走了vpn。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/03/31/hello-world/"/>
     <url>/2023/03/31/hello-world/</url>
